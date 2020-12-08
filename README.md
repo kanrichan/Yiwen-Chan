@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Go   8 hrs 3 mins    █████████████████████████   99.80 % 
+Go   5 hrs           █████████████████████████   99.68 % 
 ```
 <!--END_SECTION:waka-->
 
