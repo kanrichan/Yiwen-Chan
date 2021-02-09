@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Go           4 hrs 29 mins   ████████████████████████▓   98.21 % 
-Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
