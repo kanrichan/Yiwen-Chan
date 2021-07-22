@@ -10,7 +10,7 @@
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Go      5 mins          █████████████████████▒░░░   85.62 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
